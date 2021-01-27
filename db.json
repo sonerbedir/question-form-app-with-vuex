@@ -1,0 +1,123 @@
+{
+  "categories": [
+    {
+      "title": "Vue.js",
+      "id": 1
+    },
+    {
+      "title": "javascript",
+      "id": 2
+    },
+    {
+      "title": "PHP",
+      "id": 3
+    },
+    {
+      "title": ".Net",
+      "id": 4
+    },
+    {
+      "title": "Angular",
+      "id": 5
+    },
+    {
+      "title": "React.js",
+      "id": 6
+    },
+    {
+      "title": "Svelt",
+      "id": 7
+    },
+    {
+      "title": "Webpack",
+      "id": 8
+    },
+    {
+      "title": "Go",
+      "id": 9
+    },
+    {
+      "title": "Python",
+      "id": 10
+    },
+    {
+      "title": "DevOps",
+      "id": 11
+    },
+    {
+      "title": "AWS",
+      "id": 12
+    },
+    {
+      "title": "Java",
+      "id": 13
+    }
+  ],
+  "questions": [
+    {
+      "title": "Amazon'da S3 Problemi",
+      "details": "S3 public yapamıyorum lütfen yardım edin",
+      "categoryId": 12,
+      "created_at": "2021-01-14T13:18:23.090Z",
+      "id": 1
+    },
+    {
+      "title": "Amazon'da EC2 Problemi",
+      "details": "EC2 nedir anlatabilecek olan var mı ?",
+      "categoryId": 12,
+      "created_at": "2021-01-14T14:18:23.090Z",
+      "id": 2
+    },
+    {
+      "title": "Vue ile Route Problemi",
+      "details": "Named Rout kullanırken LazyLoad şeklinde hata alıyorum.. ",
+      "categoryId": 1,
+      "created_at": "2021-01-14T13:18:23.090Z",
+      "id": 3
+    },
+    {
+      "title": "Vue js ",
+      "details": "Cokkk güzel bir uygulama teşekkür ederim",
+      "categoryId": 1,
+      "created_at": "2021-01-14T12:18:23.090Z",
+      "id": 4
+    },
+    {
+      "title": "Some JAvascript Problems",
+      "details": "Bıktık bu javascripten be abim",
+      "categoryId": 2,
+      "created_at": "2021-01-14T11:18:23.090Z",
+      "id": 5
+    },
+    {
+      "title": ".Net  Yorum satırı",
+      "details": "Yorum satırı nasıl yapılır ? Bilen varsa  yeşillendirsin !!",
+      "categoryId": 4,
+      "created_at": "2021-01-14T12:19:01.510Z",
+      "id": 6
+    },
+    {
+      "title": "Go  Nedir ? ",
+      "details": "Go öğrenmek istiyorum. Önerir misiniz ?",
+      "categoryId": 9,
+      "created_at": "2021-01-14T22:18:01.601Z",
+      "id": 7
+    },
+    {
+      "title": "Makine Öğrenmesi",
+      "details": "Yapay sinir ağlarıyla ilgili bir problem yaşıyorum. Yardımcı olabilecek var mı ?",
+      "categoryId": 10,
+      "created_at": "2021-01-14T22:21:59.984Z",
+      "id": 8
+    },
+    {
+      "title": "Svelt Nedir?",
+      "details": "Hiç bilmedigim bir dil..açıklayın",
+      "categoryId": 7,
+      "created_at": "2021-01-25T15:45:56.558Z",
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "users": []
+}
